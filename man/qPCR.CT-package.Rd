@@ -1,0 +1,36 @@
+\name{qPCR.CT-package}
+\alias{qPCR.CT-package}
+\alias{qPCR.CT}
+\docType{package}
+\title{
+qPCR data analysis and plot package
+}
+\description{
+use ddCT methods calculate the relative gene expression, data file can be export from bio-rad qpcr machine,
+the results can be plot with errorbar.
+}
+\details{
+\tabular{ll}{
+Package: \tab qPCR.CT\cr
+Type: \tab Package\cr
+Version: \tab 1.0\cr
+Date: \tab 2011-09-09\cr
+License: \tab GPL-2\cr
+LazyLoad: \tab yes\cr
+Depends: \tab RColorBrewer \cr
+}
+}
+\author{
+Yuzhuo Pan,  Xiaoyu Yan, Junxin Li
+
+Maintainer: Yuzhuo Pan <yuzhuo.pan@gmail.com>
+~~ The author and/or maintainer of the package ~~
+}
+\references{
+}
+\keyword{ qPCR, Plot, RColorBrewer }
+\seealso{
+
+}
+\examples{
+}
