@@ -2,15 +2,15 @@
 \alias{repeatnum}
 \docType{data}
 \title{
-   ~~ repeat/number ... ~~
+ repeat/number 
 }
 \description{
-  ~~ repeat number per gene usually 3 ~~
+repeat number per gene usually 3 
 }
 \usage{data(repeatnum)}
 \format{
   The format is:
- num 3
+  number = 3
 }
 \details{
 %%  ~~ If necessary, more details than the __description__ above ~~

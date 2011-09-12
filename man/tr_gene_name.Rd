@@ -2,15 +2,15 @@
 \alias{tr_gene_name}
 \docType{data}
 \title{
-   ~~ gene name/char ... ~~
+ gene name/char 
 }
 \description{
-  ~~ treat group gene name of the dataset. ~~
+ treat group gene name of the dataset. 
 }
 \usage{data(tr_gene_name)}
 \format{
   The format is:
- chr "CHK2"
+  char "CHK2"
 }
 \details{
 %%  ~~ If necessary, more details than the __description__ above ~~

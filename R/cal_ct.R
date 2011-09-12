@@ -21,8 +21,8 @@ function(con.con, tr.con, con.tr, tr.tr)
     dtr.tr  <- tr.tr  - mean.tc
     mean.dcon.tr <- mean(dcon.tr)
     mean.dtr.tr <- mean(dtr.tr)
-    ddcon.tr <- dcon.tr - mean.dcon.tr
-    ddtr.tr  <- dtr.tr  - mean.dcon.tr
+    ddcon.tr <-  mean.dcon.tr - dcon.tr
+    ddtr.tr  <-  mean.dcon.tr - dtr.tr
     two.ddcon.tr <- 2^ddcon.tr
     two.ddtr.tr <- 2^ddtr.tr
     mean.two.ddcon.tr <- mean(two.ddcon.tr)

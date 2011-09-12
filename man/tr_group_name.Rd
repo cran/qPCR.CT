@@ -2,15 +2,15 @@
 \alias{tr_group_name}
 \docType{data}
 \title{
-   ~~ group name/char ... ~~
+ group name/char 
 }
 \description{
-  ~~ treat group of the dataset. ~~
+treat group of the dataset. 
 }
 \usage{data(tr_group_name)}
 \format{
   The format is:
- chr "TR"
+   char "TR"
 }
 \details{
 %%  ~~ If necessary, more details than the __description__ above ~~

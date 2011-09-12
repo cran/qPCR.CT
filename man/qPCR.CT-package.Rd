@@ -6,15 +6,15 @@
 qPCR data analysis and plot package
 }
 \description{
-use ddCT methods calculate the relative gene expression, data file can be export from bio-rad qpcr machine,
-the results can be plot with errorbar.
+use 2^ddCT methods calculate the relative gene expression, data file can be export from bio-rad qpcr machine, the results can be plot with errorbar.
+ver 1.1 add GroupPlot function, can plot all the groups once.
 }
 \details{
 \tabular{ll}{
 Package: \tab qPCR.CT\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2011-09-09\cr
+Version: \tab 1.1\cr
+Date: \tab 2011-09-12\cr
 License: \tab GPL-2\cr
 LazyLoad: \tab yes\cr
 Depends: \tab RColorBrewer \cr
@@ -24,13 +24,8 @@ Depends: \tab RColorBrewer \cr
 Yuzhuo Pan,  Xiaoyu Yan, Junxin Li
 
 Maintainer: Yuzhuo Pan <yuzhuo.pan@gmail.com>
-~~ The author and/or maintainer of the package ~~
-}
-\references{
 }
 \keyword{ qPCR, Plot, RColorBrewer }
 \seealso{
-
-}
-\examples{
+RColorBrewer
 }

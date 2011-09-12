@@ -5,7 +5,7 @@
   Plot function 
 }
 \description{
-  ~~ Plot Barplot with Error Bar(se or sd) ~~
+Plot Barplot with Error Bar(se or sd)
 }
 \usage{
 \method{plot}{CT}(x, \dots)
@@ -36,7 +36,7 @@
 %% ~put references to the literature/web site here ~
 }
 \author{
-  ~~yz pan, xy yan, jx li~~
+ yz pan, xy yan, jx li
 }
 \note{
 %%  ~~further notes~~

@@ -2,10 +2,10 @@
 \alias{cal_ct}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
- ~~caculate CT in PCR ... ~~
+caculate CT in PCR
 }
 \description{
-  ~~ USE delta delta CT method to calculate the expression differnce ~~
+ USE delta delta CT method to calculate the expression differnce ~~
 }
 \usage{
 cal_ct(con.con, tr.con, con.tr, tr.tr)
@@ -14,26 +14,26 @@ cal_ct(con.con, tr.con, con.tr, tr.tr)
 \arguments{
   \item{con.con}{
     CT value of control group control gene  
-    ~~Describe \code{con.con} here~~
+
 }
   \item{tr.con}{
      CT value of treat group control gene  
-	 ~~Describe \code{tr.con} here~~
+
 }
   \item{con.tr}{
     CT value of control group target gene  
-	~~Describe \code{con.tr} here~~
+
 }
   \item{tr.tr}{
   CT value of treat group target gene  
-    ~~Describe \code{tr.tr} here~~
+
 }
 }
 \details{
   These are CT values from the dataset!
 }
 \value{
-  ~Describe the value returned
+
   If it is a LIST, use
   \item{comp1 }{Description of 'comp1'}
   \item{comp2 }{Description of 'comp2'}
@@ -43,7 +43,7 @@ cal_ct(con.con, tr.con, con.tr, tr.tr)
 %% ~put references to the literature/web site here ~
 }
 \author{
-  ~~YZ Pan, XY Yan, JX Li~~
+  YZ Pan, XY Yan, JX Li
 }
 \note{
 %%  ~~further notes~~
